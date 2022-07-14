@@ -1,2 +1,2 @@
 # js-web-components
-Vanilla JavaScript Web Components - First Approach With MVC Orientation
+Introducción a WebComponents empleando únicamente JavaScript/API DOM
